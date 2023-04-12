@@ -6,4 +6,5 @@ GitHubとの連携 fixed #28780
 1行追加 combine
 
 github_hookのテスト
+github_hookのテスト2
 
